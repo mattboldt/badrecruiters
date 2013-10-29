@@ -2,6 +2,7 @@ name: "Bad Recruiters"
 description: "A Collection of Really Bad Recruiter Emails"
 
 url: "mattboldt.github.io/badrecruiters"
+baseurl: "http://mattboldt.github.io/badrecruiters"
 
 paginate: 100
 
