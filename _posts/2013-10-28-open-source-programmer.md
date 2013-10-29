@@ -1,6 +1,9 @@
 ---
 title: Open Source Programmer Needed
-layout: default
+layout: post
+tags:
+- Open-Source
+- Fortune 500
 ---
 
 *Are you interested in a new job opportunity?

@@ -1,0 +1,20 @@
+{% include header.html %}
+
+<div class="wrap">
+<article>
+	<h1><a href="{{ post.url }}">{{ page.title }}</a></h1>
+	<p><em>{{ page.date | date_to_long_string }}</em></p>
+	<div class="entry">
+		<i class="quote quote-left">&#8220;</i>
+			{{ content }}
+		<i class="quote quote-right">&#8221;</i>
+	</div>
+	<p><small><em>
+		{% for tag in page.tags %}
+			<a href="/tag/{{ tag }}">{{ tag }},</a>
+		{% endfor %}
+	</em></small></p>
+</article>
+</div>
+
+{% include footer.html %}
