@@ -6,8 +6,10 @@ tags:
 - javascript
 ---
 
-*Please check your networks I have a current opening for a Web Developer. I am looking for someone with strong technical and design skills.*
+Please check your networks I have a current opening for a Web Developer. I am looking for someone with strong technical and design skills.
 
-*This position needs the following skills:
+This position needs the following skills:
+
 - Web Developer
-- JavaScript*
+
+- JavaScript
