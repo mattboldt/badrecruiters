@@ -1,5 +1,5 @@
 ---
-title: Open Source Programmer Needed
+title: Open Source Developer Needed
 layout: post
 tags:
 - Open-Source
