@@ -4,7 +4,7 @@ layout: default
 
 {% for post in site.posts limit: 100 %}
 <article>
-	<h2><a href="{{ site.url }}/{{ post.url }}">{{ post.title }}</a></h2>
+	<h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
 	<p><em>{{ post.date | date_to_long_string }}</em></p>
 	<div class="entry">
 		<i class="quote quote-left">&#8220;</i>
