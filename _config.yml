@@ -1,0 +1,10 @@
+name: "Bad Recruiters"
+description: ""
+
+url: "github.mattboldt.io/badrecruiters"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
