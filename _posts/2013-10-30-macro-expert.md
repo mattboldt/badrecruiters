@@ -3,8 +3,7 @@ title: Macro Programmer
 layout: post
 ---
 
-*
-Are you on the market for this contract engagement?
+*Are you on the market for this contract engagement?
 This is initially a 3-month contract. Only considering W2 hourly rates at this time.*
 
 *  PHP Framework
