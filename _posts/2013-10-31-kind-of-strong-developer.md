@@ -7,7 +7,7 @@ layout: post
 
 This is Larry, I'm a recruiter. I'm looking for a strong...
 
-Reletively strong. JavaScript developer. I'd like to speak with you, my phone number is 555-555-5555. Thanks.
+Relatively strong. JavaScript developer. I'd like to speak with you, my phone number is 555-555-5555. Thanks.
 
 <small>(moments pass)</small>
 
