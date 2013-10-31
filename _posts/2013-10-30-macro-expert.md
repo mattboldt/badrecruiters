@@ -3,7 +3,7 @@ title: Macro Programmer
 layout: post
 ---
 
-<img src="/images/business-phone-1.jpg" alt="" class="avi" />
+<img src="{{ site.url }}/images/business-phone-1.jpg" alt="" class="avi" />
 
 *Are you on the market for this contract engagement?
 This is initially a 3-month contract. Only considering W2 hourly rates at this time.*

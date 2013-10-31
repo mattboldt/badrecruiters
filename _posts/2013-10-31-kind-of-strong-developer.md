@@ -3,7 +3,7 @@ title: Kind of Strong Developer
 layout: post
 ---
 
-<img src="/images/business-phone-4.jpg" alt="" class="avi" />
+<img src="{{ site.url }}/images/business-phone-4.jpg" alt="" class="avi" />
 
 This is Larry, I'm a recruiter. I'm looking for a strong...
 

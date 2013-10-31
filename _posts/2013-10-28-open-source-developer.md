@@ -6,7 +6,7 @@ tags:
 - Fortune 500
 ---
 
-<img src="/images/business-phone-5.jpg" alt="" class="avi" />
+<img src="{{ site.url }}/images/business-phone-5.jpg" alt="" class="avi" />
 
 *Are you interested in a new job opportunity?
 I have a position that might be of interest to you with our Fortune 500 retail client.
