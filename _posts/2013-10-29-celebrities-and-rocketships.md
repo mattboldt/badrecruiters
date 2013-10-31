@@ -3,6 +3,8 @@ title: Celebrities & Rocketships
 layout: post
 ---
 
+<img src="/images/business-phone-2.jpg" alt="" class="avi"m/>
+
 *My new client is an exciting startup in the SF Bay area which has just closed on VC
 funding and is actively seeking to hire several senior-level RoR coders with 3+ years of experience.
 They have already established multiple celebrities as members and are rapidly acquiring more.

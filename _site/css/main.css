@@ -426,19 +426,20 @@ ul {
 
 .wrap {
   margin: 0 auto;
-  max-width: 1000px;
+  max-width: 900px;
 }
 
 article {
   display: block;
   margin: 0 auto .5em;
-  padding: .5em 5em;
+  padding: .5em 4em;
   background: #fafafa;
 }
 
 .entry {
   position: relative;
   margin: 30px 0;
+  font-style: italic;
 }
 
 aside {
@@ -449,7 +450,7 @@ aside {
 
 .quote {
   position: absolute;
-  font-size: 7em;
+  font-size: 5em;
   line-height: 0;
   font-family: "Playfair Display", serif;
   color: #e0e0e0;
@@ -463,6 +464,13 @@ aside {
 .quote-right {
   bottom: 0;
   right: -.35em;
+}
+
+.avi {
+  position: absolute;
+  left: -40%;
+  top: -50%;
+  width: 160px;
 }
 
 .archive {

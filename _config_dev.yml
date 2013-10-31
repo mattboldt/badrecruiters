@@ -1,7 +1,6 @@
 name: "Bad Recruiters"
 description: "A Collection of Really Bad Recruiter Emails"
 
-# url: "http://locahost:4000/"
 
 paginate: 100
 
